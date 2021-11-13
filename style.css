@@ -1,0 +1,132 @@
+/* EMPIEZA ESTILOS PROPIOS */
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-family: "Lato", sans-serif;
+}
+
+#pageTitle{
+    margin: 20px auto;
+    width: 50%;
+    text-align: left;
+}
+
+h2{
+    text-transform: uppercase;
+    font-size: large;
+    font-family: "Monserrat", sans-serif;
+}
+
+.titles{
+    text-align: left;
+    margin-left: 55px;
+}
+
+p{
+    font-family: "Nunito", sans-serif;
+}
+
+.boxes{
+     margin: 20px auto;
+     border: 3px double black;
+     width: 50%;
+     padding: 15px;
+ }
+
+.colorContainer{
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+ .colors{
+     margin: 5px auto;
+     border-radius: 5px;
+     display: inline-block;
+     width: fit-content;
+     height: fit-content;
+ }
+
+ .colors p{
+     text-align: center;
+     margin: 20px;
+     letter-spacing: 0.1em;
+     line-height: 1.5em;
+ }
+
+ #orange{
+     background-color: #FF8633;
+ }
+
+ #beige{
+    background-color: #FFDE93;
+ }
+
+ #yellow{
+    background-color: #FFE333;
+ }
+
+.fontContainer{
+    text-align: left;
+    padding: 5px;
+    margin: 2px;
+}
+
+.fontTitle{
+    font-size: larger;
+    font-weight: 700;
+    text-decoration: underline;
+    display: inline-block;
+    text-align: left;
+}
+
+ #Lato300{
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+ }
+
+ #Lato400{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+ }
+
+ #Lato700{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+ }
+
+ #Monserrat300{
+    font-family: "Monserrat", sans-serif;
+    font-weight: 300;
+ }
+
+ #Monserrat400{
+    font-family: "Monserrat", sans-serif;
+    font-weight: 400;
+ }
+
+ #Monserrat700{
+    font-family: "Monserrat", sans-serif;
+    font-weight: 700;
+ }
+
+ #Nunito300{
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+ }
+
+ #Nunito00{
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+ }
+
+ #Nunito700{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+ }
+
+ .h1style{
+     font-family: "Lato", sans-serif;;
+ }
